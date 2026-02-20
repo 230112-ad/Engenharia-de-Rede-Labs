@@ -4,7 +4,7 @@
 Praticar implementação de uma rede 3-tier assegurando os princípios da disponibilidade e redundância
 
 ## Topologia
-- 2 Switches Multilayes
+- 2 Switches Multilayers
 - 2 Switches Layer 2
 - 1 roteador
 - 1 ISP
